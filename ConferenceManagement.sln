@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{369A388E-0329-4119-84F6-C0A062AC1F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceLib", "ConferenceLib\ConferenceLib.csproj", "{487942B8-EEF5-45D1-8C50-DED522CA011B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{369A388E-0329-4119-84F6-C0A062AC1F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369A388E-0329-4119-84F6-C0A062AC1F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369A388E-0329-4119-84F6-C0A062AC1F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369A388E-0329-4119-84F6-C0A062AC1F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487942B8-EEF5-45D1-8C50-DED522CA011B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487942B8-EEF5-45D1-8C50-DED522CA011B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487942B8-EEF5-45D1-8C50-DED522CA011B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487942B8-EEF5-45D1-8C50-DED522CA011B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
